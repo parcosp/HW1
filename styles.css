@@ -1,0 +1,44 @@
+header{
+    border-bottom: 5px solid white;
+}
+
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    font-family: bold;
+    
+}
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+ul.a{
+    list-style-position: inside;
+    text-align: center;
+}
+ p.one {
+     /*width: 250px;*/
+     /*margin: auto;*/
+     
+   border-style: outset;
+  /* border-bottom: 3px; */
+    border-width: 2px;
+    border-color: lightcyan;
+    /*background-color: lightgrey;*/
+   /* margin: 25px 50px 75px; */
+} 
+footer{
+    border-top: 5px solid white;
+
+}
